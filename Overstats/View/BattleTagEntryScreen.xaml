@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Overstats.View.BattleTagEntryScreen">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="title" Text="Overstats" Style="{StaticResource MainTitleHeader}"/>
+            <Entry x:Name="battletagEntry" 
+                   Style="{StaticResource BattleTagEntry}"
+                   Text="{Binding Player.BattleTag}"/>
+            <StackLayout x:Name="region">
+                <Picker x:Name="RegionSelecter" 
+                        Style="{StaticResource RegionPicker}"
+                        SelectedItem="{Binding Player.Region}">
+                    <Picker.Items>
+                        <x:String>US</x:String>
+                        <x:String>EU</x:String>
+                        <x:String>Asia</x:String>
+                    </Picker.Items>
+                    <Picker.Title>Region</Picker.Title>
+                </Picker>
+                <Picker x:Name="PlatformSelector" 
+                        Style="{StaticResource RegionPicker}"
+                        SelectedItem="{Binding Player.Platform}">
+                    <Picker.Items>
+                        <x:String>PC</x:String>
+                        <x:String>Xbox</x:String>
+                        <x:String>PS4</x:String>
+                    </Picker.Items>
+                    <Picker.Title>Platform</Picker.Title>
+                </Picker>
+            </StackLayout>
+            <Button x:Name="analyzeButton" 
+                    Style="{StaticResource MainAnalyzeButton}"
+                    Command="{Binding BattleTagReceivedCommand}"
+                    CommandParameter="{Binding Player}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

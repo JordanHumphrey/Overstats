@@ -1,0 +1,14 @@
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\bin\Debug\netstandard2.0\Overstats.deps.json
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\bin\Debug\netstandard2.0\Overstats.dll
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\bin\Debug\netstandard2.0\Overstats.pdb
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\obj\Debug\netstandard2.0\View\BattleTagEntryScreen.xaml.g.cs
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\obj\Debug\netstandard2.0\View\CareerProfileScreen.xaml.g.cs
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\obj\Debug\netstandard2.0\View\MainMenuScreen.xaml.g.cs
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\obj\Debug\netstandard2.0\Overstats.csproj.CoreCompileInputs.cache
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\obj\Debug\netstandard2.0\Overstats.AssemblyInfoInputs.cache
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\obj\Debug\netstandard2.0\Overstats.AssemblyInfo.cs
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\obj\Debug\netstandard2.0\Overstats.dll
+C:\Users\jrdnh\Documents\Visual Studio 2017\Projects\Overstats\Overstats\obj\Debug\netstandard2.0\Overstats.pdb
